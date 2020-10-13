@@ -31,9 +31,9 @@ function draw() {
   background(220);
 
   ground.display();
-  paper.display();
-
   dustbinObj.display();
+
+  paper.display();
   drawSprites();
  
 }
